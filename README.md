@@ -6,7 +6,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 Work-in-Progress
 
 ## Table of Contents
-* [Awesome Lists](https://github.com/avie00/Awesome-Robotic-Imaging/##Awesome Lists)
+* [Awesome Lists](https://github.com/avie00/Awesome-Robotic-Imaging/#Awesome_Lists)
 * Books
 * Papers
 * Software
