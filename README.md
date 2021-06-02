@@ -3,7 +3,6 @@
 
 
 A curated list of awesome robotic imaging resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). 
-Work-in-Progress
 
 ## Table of Contents
 * [Awesome Lists](https://github.com/avie00/Awesome-Robotic-Imaging/#Awesome_Lists)
@@ -41,3 +40,25 @@ Work-in-Progress
 * [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 * [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
 * [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+
+## Books
+* [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Richard Szeliski 2010 
+* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB](https://link.springer.com/book/10.1007/978-3-642-20144-8) - Peter Corke 2011
+* [High dynamic range imaging: acquisition, display, and image-based lighting](https://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
+
+## Papers
+Conference papers on the web
+* [SIGGRAPH Paper on the web](https://dl.acm.org/) - Graphics
+* [NeurIPS Proceedings](https://proceedings.neurips.cc//) - Machine learning
+* [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu) - Robotic imaging; Computer vision
+* [ICRA: 2020 IEEE International Conference on Robotics and Automation](https://github.com/PaoPaoRobot/ICRA2020-paper-list) - Robotic imaging
+* [IROS: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems](https://github.com/PaoPaoRobot/IROS2020-paper-list) - Robotic imaging
+
+## Dataset
+Work-in-Progress
+
+## Software
+Work-in-Progress
+
+## Pre-trained Robotic Imaging Models
+Work-in-Progress
