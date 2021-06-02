@@ -48,7 +48,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 
 ## Papers
 Conference papers on the web
-* [SIGGRAPH Paper on the web](https://dl.acm.org/) - Graphics
+* [SIGGRAPH](https://dl.acm.org/) - Graphics
 * [NeurIPS Proceedings](https://proceedings.neurips.cc//) - Machine learning
 * [Computer Vision Foundation open access](https://openaccess.thecvf.com/menu) - Robotic imaging; Computer vision
 * [ICRA: 2020 IEEE International Conference on Robotics and Automation](https://github.com/PaoPaoRobot/ICRA2020-paper-list) - Robotic imaging
