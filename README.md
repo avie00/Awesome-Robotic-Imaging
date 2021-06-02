@@ -6,8 +6,8 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 Work-in-Progress
 
 ## Table of Contents
-"*"Awesome Lists
-*Books
+ * Awesome Lists
+* Books
 *Papers
 *Software
 *Datasets
