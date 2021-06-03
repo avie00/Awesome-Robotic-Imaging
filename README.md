@@ -9,7 +9,6 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Books](https://github.com/avie00/Awesome-Robotic-Imaging/#Books)
 * [Papers](https://github.com/avie00/Awesome-Robotic-Imaging/#Papers)
 * [Software](https://github.com/avie00/Awesome-Robotic-Imaging/#Software)
-* [Datasets](https://github.com/avie00/Awesome-Robotic-Imaging/#Datasets)
 * [Pre-trained Robotic Imaging Models](https://github.com/avie00/Awesome-Robotic-Imaging/#Pre-trained_Robotic_Imaging_Models)
 
 ## Awesome Lists
@@ -40,6 +39,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 * [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
 * [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+* [Awesome 3D reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 ## Books
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Richard Szeliski 2010 
@@ -54,11 +54,43 @@ Conference papers on the web
 * [ICRA: 2020 IEEE International Conference on Robotics and Automation](https://github.com/PaoPaoRobot/ICRA2020-paper-list) - Robotic imaging
 * [IROS: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems](https://github.com/PaoPaoRobot/IROS2020-paper-list) - Robotic imaging
 
-## Dataset
-Work-in-Progress
-
 ## Software
-Work-in-Progress
+### Point Cloud
+* [PCL: PointCloud Library](https://pointclouds.org/)
 
-## Pre-trained Robotic Imaging Models
+### 3D Reconstruction: Structure-from-Motion
+* [COLMAP](https://colmap.github.io/)
+* [Visual SfM](http://ccwu.me/vsfm/)
+* [Bundler SfM](https://www.cs.cornell.edu/~snavely/bundler/)
+* [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/)
+* [Patch-based Multi-view Stereo V2](https://www.di.ens.fr/pmvs/)
+
+### Feature Detection and Extraction
+* [VLFeat implementation](https://www.vlfeat.org/) 
+* [SIFT](https://www.cs.ubc.ca/~lowe/keypoints/) David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
+* [SURF](https://people.ee.ethz.ch/~surf/) Herbert Bay, Andreas Ess, Tinne Tuytelaars, Luc Van Gool, "SURF: Speeded Up Robust Features", Computer Vision and Image Understanding, Vol. 110, No. 3, pp. 346--359, 2008
+* [Machine learning for high-speed corner detection](https://www.edwardrosten.com/work/rosten_2006_machine.pdf) Edward Rosten, Tom Drummond, "Machine Learning for High-Speed Corner Detection", European Conference on Computer Vision, pp.430-443, 2006.
+* [LiFF: Light Field Features in Scale and Depth](https://github.com/doda42/LiFF) Donald G. Dansereau, Bernd Girod, Gordon Wetzstein, "LiFF: Light Field Features in Scale and Depth", Computer Vision and Pattern Recognition, pp. 8034-8043, 2019.
+
+### Camera calibration
+* [Camera Calibration Toolbox for Matlab](http://www.vision.caltech.edu/bouguetj/calib_doc/)
+* [Camera calibration With OpenCV](https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html)
+* [Hand-Eye Calibration](https://github.com/ZacharyTaylor/Camera-to-Arm-Calibration)
+
+### SLAM: Simultaneous Localization And Mapping
+* [OpenSLAM](https://openslam-org.github.io/)
+* [ORBSLAM 2](https://github.com/raulmur/ORB_SLAM2)
+* [LSD SLAM](https://github.com/tum-vision/lsd_slam)
+
+### General Implementation
+* [Adobe](https://github.com/adobe)
+* [Google](https://github.com/google)
+* [Microsoft](https://github.com/microsoft)
+* [Stanford Computational Imaging Lab](https://github.com/computational-imaging)
+* [Autonomous Systems Lab | ETH Zurich](https://github.com/ethz-asl)
+* [Computational Photography and Video | MIT](https://projects.csail.mit.edu/photo/)
+* [Rice Computational Imaging Lab](https://computationalimaging.rice.edu/code/)
+* [TUM Computer Vision Group](https://github.com/tum-vision)
+
+## Pre-trained Robotic Imaging Models]
 Work-in-Progress
