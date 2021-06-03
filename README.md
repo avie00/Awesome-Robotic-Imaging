@@ -92,5 +92,5 @@ Conference papers on the web
 * [Rice Computational Imaging Lab](https://computationalimaging.rice.edu/code/)
 * [TUM Computer Vision Group](https://github.com/tum-vision)
 
-## Pre-trained Robotic Imaging Models]
+## Pre-trained Robotic Imaging Models
 Work-in-Progress
