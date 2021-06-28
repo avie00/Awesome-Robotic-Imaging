@@ -46,7 +46,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 ## Books
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Richard Szeliski 2010 
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB](https://link.springer.com/book/10.1007/978-3-642-20144-8) - Peter Corke 2011
-* [High dynamic range imaging: acquisition, display, and image-based lighting](https://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
+* [High Dynamic Range Imaging: Acquisition, Display, and Image-based Lighting](https://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 
 ## Papers
 Conference papers on the web
@@ -71,7 +71,7 @@ Conference papers on the web
 * [VLFeat implementation](https://www.vlfeat.org/) 
 * [SIFT](https://www.cs.ubc.ca/~lowe/keypoints/) David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
 * [SURF](https://people.ee.ethz.ch/~surf/) Herbert Bay, Andreas Ess, Tinne Tuytelaars, Luc Van Gool, "SURF: Speeded Up Robust Features", Computer Vision and Image Understanding, Vol. 110, No. 3, pp. 346--359, 2008
-* [Machine learning for high-speed corner detection](https://www.edwardrosten.com/work/rosten_2006_machine.pdf) Edward Rosten, Tom Drummond, "Machine Learning for High-Speed Corner Detection", European Conference on Computer Vision, pp.430-443, 2006.
+* [Machine learning for High-Speed Corner Detection](https://www.edwardrosten.com/work/rosten_2006_machine.pdf) Edward Rosten, Tom Drummond, "Machine Learning for High-Speed Corner Detection", European Conference on Computer Vision, pp.430-443, 2006.
 * [LiFF: Light Field Features in Scale and Depth](https://github.com/doda42/LiFF) Donald G. Dansereau, Bernd Girod, Gordon Wetzstein, "LiFF: Light Field Features in Scale and Depth", Computer Vision and Pattern Recognition, pp. 8034-8043, 2019.
 
 ### Camera calibration
