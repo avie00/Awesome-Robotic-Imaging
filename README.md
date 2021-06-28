@@ -10,7 +10,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Papers](https://github.com/avie00/Awesome-Robotic-Imaging/#Papers)
 * [Software](https://github.com/avie00/Awesome-Robotic-Imaging/#Software)
 * [Seminars](https://github.com/avie00/Awesome-Robotic-Imaging/#Seminars)
-* [Mailing Lists](https://github.com/avie00/Awesome-Robotic-Imaging/#Mailing Lists)
+* [Mailing Lists](https://github.com/avie00/Awesome-Robotic-Imaging/#Mailing_Lists)
 * [Pre-trained Robotic Imaging Models](https://github.com/avie00/Awesome-Robotic-Imaging/#Pre-trained_Robotic_Imaging_Models)
 
 ## Awesome Lists
