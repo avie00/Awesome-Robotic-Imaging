@@ -9,6 +9,8 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Books](https://github.com/avie00/Awesome-Robotic-Imaging/#Books)
 * [Papers](https://github.com/avie00/Awesome-Robotic-Imaging/#Papers)
 * [Software](https://github.com/avie00/Awesome-Robotic-Imaging/#Software)
+* [Seminars](https://github.com/avie00/Awesome-Robotic-Imaging/#Seminars)
+* [Mailing Lists](https://github.com/avie00/Awesome-Robotic-Imaging/#Mailing Lists)
 * [Pre-trained Robotic Imaging Models](https://github.com/avie00/Awesome-Robotic-Imaging/#Pre-trained_Robotic_Imaging_Models)
 
 ## Awesome Lists
@@ -92,5 +94,24 @@ Conference papers on the web
 * [Rice Computational Imaging Lab](https://computationalimaging.rice.edu/code/)
 * [TUM Computer Vision Group](https://github.com/tum-vision)
 
+## Seminars
+* [ACFR Research Seminar Series](https://confluence.acfr.usyd.edu.au/display/ACFR/ACFR+Research+Seminar+Series)
+* [Warren Grundfest Lectures in Computational Imaging](https://visual.ee.ucla.edu/web_series/)
+* [TUM Visual Computing Group: AI Lecture Series](https://niessner.github.io/TUM-AI-Lecture-Series/?fbclid=IwAR3qxbYd4ixlTqFzSPqUGXpJY9HnMjZaePsxt5e9cjKyc6sXQoiE6O4l7DE)
+* [Seebelowtheskin Webinar Series](https://www.seebelowtheskin.org/webinars/?fbclid=IwAR3W-1DEcj9fsFLvNLx7z4XLhirhopqblno1YA-tx7QRmRWXqi-zqD5-cMc)
+* [EEE SPS Computational Imaging Webinar Series](https://sites.google.com/view/sps-space)
+
+## Mailing Lists
+
+### Reading Groups
+* [Machine Learning Reading Group](https://mailman.sydney.edu.au/mailman/listinfo/machinelearning)
+* [Robotic Imaging Reading Group](https://lists.acfr.usyd.edu.au/mailman/listinfo/imgrg)
+* [CAS Reading Group](http://listserv.uts.edu.au/mailman/listinfo/cas-perception)
+
+### Engineering Network
+* [Sydney Early-Mid Career Academic Network (SEMCAN), Faculty of Engineering Community](https://mailman.sydney.edu.au/mailman/listinfo/emcr.feng)
+
 ## Pre-trained Robotic Imaging Models
+* [SfMLearner](https://github.com/tinghuiz/SfMLearner)
+
 Work-in-Progress
