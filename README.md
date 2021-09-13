@@ -44,9 +44,10 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Awesome 3D reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 ## Books
+* [Computational Imaging](https://imagingtext.github.io/cibook.pdf) - Bandari, A., Kadambi, A., Raskar, A., 2022
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) - Richard Szeliski 2010 
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB](https://link.springer.com/book/10.1007/978-3-642-20144-8) - Peter Corke 2011
-* [High Dynamic Range Imaging: Acquisition, Display, and Image-based Lighting](https://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
+* [High Dynamic Range Imaging: Acquisition, Display, and Image-based Lighting](https://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K., 2010
 
 ## Papers
 Conference papers on the web
