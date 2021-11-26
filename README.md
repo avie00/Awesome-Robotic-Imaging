@@ -42,6 +42,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
 * [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
 * [Awesome 3D reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
 ## Books
 * [Computational Imaging](https://imagingtext.github.io/cibook.pdf) - Bandari, A., Kadambi, A., Raskar, A., 2022
