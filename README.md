@@ -115,5 +115,9 @@ Conference papers on the web
 
 ## Pre-trained Robotic Imaging Models
 * [SfMLearner](https://github.com/tinghuiz/SfMLearner)
-
-Work-in-Progress
+* [Neural SLAM](https://github.com/devendrachaplot/Neural-SLAM)
+* [Pixel-based SfM](https://github.com/cvg/pixel-perfect-sfm)
+* [Hierarchical Localization](https://github.com/cvg/Hierarchical-Localization)
+* [Super Point](https://github.com/rpautrat/SuperPoint)
+* [Super Glue](https://github.com/magicleap/SuperGluePretrainedNetwork)
+* [Back to the Feature](https://github.com/cvg/pixloc)
