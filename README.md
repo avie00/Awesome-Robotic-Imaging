@@ -42,6 +42,7 @@ A curated list of awesome robotic imaging resources, inspired by [awesome-comput
 * [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
 * [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
 * [Awesome 3D reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [Awesome underwater dataset](https://github.com/xahidbuffon/Awesome_Underwater_Datasets)
 * [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
 ## Books
